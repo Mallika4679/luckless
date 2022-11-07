@@ -1,0 +1,9 @@
+!# /bin/bash
+echo "memory "
+free -h
+echo "uname"
+uname
+echo "desk speace"
+df -h
+echo "ip adress"
+hostname -I
